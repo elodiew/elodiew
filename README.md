@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/elodiew/elodiew/blog/master/img/cover.jpeg)
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+![Cover](https://github.com/elodiew/elodiew/blog/master/img/dev.jpeg)
 
 
 <!--
