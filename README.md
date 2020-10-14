@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/elodiew/elodiew/blog/main/img/dev.jpeg)
+![Cover](https://github.com/elodiew/elodiew/tree/main/img/moret.jpg)
 
 
 <!--
