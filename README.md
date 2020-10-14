@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cover](https://github.com/elodiew/elodiew/blog/master/img/cover.jpeg)
+
 <!--
 **elodiew/elodiew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
