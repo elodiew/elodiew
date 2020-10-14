@@ -20,7 +20,7 @@ Je suis Développeur front end junior et Webmaster spécialisée Wordpress dans 
 
 # My song of the moment
 
-[![Spotify](https://github.com/elodiew/elodiew/blob/main/img/song.jpg)](https://www.youtube.com/watch?v=BDsuR22GQPQ) <br/>
+[![Spotify](https://github.com/elodiew/elodiew/blob/main/img/song1.jpg)](https://www.youtube.com/watch?v=BDsuR22GQPQ) <br/>
 
 Contact:<br/>
 Twitter: https://twitter.com/moret_elodie <br/>
