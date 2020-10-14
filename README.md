@@ -1,4 +1,4 @@
-### Hi there 👋
+### BONJOUR 👋
 
 ![Cover](https://github.com/elodiew/elodiew/blob/main/img/Elodie.jpg)
 
