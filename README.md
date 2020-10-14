@@ -1,4 +1,4 @@
-### BONJOUR 👋 <h1 align="center">Bonjour 👋</h1>
+ <h1 align="center">Bonjour 👋</h1>
 
 ![Cover](https://github.com/elodiew/elodiew/blob/main/img/Elodie.jpg)
 
